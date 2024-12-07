@@ -1,8 +1,8 @@
 ### Hi, I'm Zhentao!
 
-🧑‍💻 Currently exploring the journey of becoming a skilled full-stack software engineer.<br/>
+🧑‍💻 Currently on the way of becoming a skilled full-stack Software Engineer<br/>
 🏫 Studying [Information Technology]() at Monash University, Australia</br>
-📺 Currently trying to become a Content Creator for Sharing my knowledge and journey on Computer Science, Productivity Tools on [YouTube](www.youtube.com/@quentinq7).
+📺 Currently aspiring to become a Content Creator, sharing my journey in Computer Science and Productivity Tools on [YouTube](www.youtube.com/@quentinq7)
 
-<!-- Github states from https://github.com/anuraghazra/github-readme-states -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinQQ)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Github states from https://github.com/anuraghazra/github-readme-stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuentinQQ&show_icons=true&&count)
