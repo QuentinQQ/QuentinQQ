@@ -1,4 +1,4 @@
-# Hi, there👋 I'm Zhentao!
+# Hi, there👋 I'm Zhentao(Quentin)!
 
 🧑‍💻 Currently on the way of becoming a skilled full-stack Software Engineer<br/>
 🏫 Studying [Information Technology]() at Monash University, Australia</br>
