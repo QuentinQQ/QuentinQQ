@@ -1,8 +1,7 @@
 # Hi, there👋 I'm Zhentao(Quentin)!
 
 🧑‍💻 Currently on the way of becoming a skilled full-stack Software Engineer<br/>
-🏫 Studying [Information Technology]() at Monash University, Australia</br>
-📺 Currently aspiring to become a Content Creator, sharing my journey in Computer Science and Productivity Tools on [YouTube](https://youtube.com/@quentinq7?si=Xc8rRWuPasN_KBqz)
+🏫 Studying Information Technology at Monash University, Australia</br>
 
 # 💻 Tech Stack:
 
