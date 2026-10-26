@@ -1,7 +1,7 @@
 # Hi, there👋 I'm Zhentao(Quentin)!
 
-🧑‍💻 Currently on the way of becoming a skilled full-stack Software Engineer<br/>
-🏫 Studying Information Technology at Monash University, Australia</br>
+🧑‍💻 A skilled full-stack Software Engineer<br/>
+🏫 MIT at Monash Uni</br>
 
 # 💻 Tech Stack:
 
